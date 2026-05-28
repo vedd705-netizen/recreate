@@ -1,4 +1,4 @@
-# ServerLibs - Minecraft Server Utility Library
+# NotMe - Minecraft Server Utility Library
 
 A lightweight utility library for Minecraft servers providing essential server management and monitoring capabilities.
 
